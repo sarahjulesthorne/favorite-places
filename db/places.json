@@ -1,0 +1,59 @@
+{
+    "places": [
+        {
+            "id": "place1",
+            "cityName": "Sunnydale",
+            "cityState": "California",
+            "image": "https://www.seeing-stars.com/Images/Slides/TorranceHigh.JPG",
+            "imageAlt": "Image of the building used as Sunnydale High in Buffy--a cream-colored building with oak trees flanking the front steps",
+            "favoriteRestaurant": "Sunshine Diner",
+            "favoriteBar": "Night's End",
+            "favoriteHotel": "Riverside Motel",
+            "favoriteAttraction": "Sunnydale High"
+        },
+        {
+            "id": "place2",
+            "cityName": "Paris",
+            "cityState": "France",
+            "image": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/18579-istock-666393322.jpg?itok=J9SAhsMP&resize=1100x1100",
+            "imageAlt": "Wide angle shot of the Eiffel tower at sunset, surrounded by trees",
+            "favoriteRestaurant": "Comice",
+            "favoriteBar": "Restaurant David Toutain",
+            "favoriteHotel": "Le Meurice",
+            "favoriteAttraction": "Eiffel Tower"
+        },
+        {
+            "id": "place3",
+            "cityName": "New York",
+            "cityState": "New York",
+            "image": "https://imaging.broadway.com/images/regular-43/w735/94445-16.jpg",
+            "imageAlt": "Image of Glinda and Elfaba, two fo the main characters from the Wicked Broadway musical",
+            "favoriteRestaurant": "Flat Iron",
+            "favoriteBar": "Balthazar",
+            "favoriteHotel": "Omni",
+            "favoriteAttraction": "Broadway"
+        },
+        {
+            "id": "place4",
+            "cityName": "Storybrook",
+            "cityState": "Maine",
+            "image": "https://2.bp.blogspot.com/-tgJ6j91QMQM/V6wTKCYqryI/AAAAAAAAEFY/9OSPge-usekDyIF6dhSEHP3oZkQJjLphwCEw/s1600/IMG_9743_edited-1.jpg",
+            "imageAlt": "Image of a streetview of Storybrook, with Storybrook Hardware and Paint facing another corner building.",
+            "favoriteRestaurant": "Granny's",
+            "favoriteBar": "The Rabbit Hole",
+            "favoriteHotel": "Wolf's Inn",
+            "favoriteAttraction": "Convent of the Sisters of Saint Meissa"
+        },
+        {
+            "id": "place5",
+            "cityName": "Los Angelos",
+            "cityState": "California",
+            "image": "https://www.welikela.com/wp-content/uploads/2015/11/japanese-garden-bridge-huntington-library.jpg",
+            "imageAlt": "Image of a Japanese maple, with a bridge crossing a stream and a pink flowering tree at the end of the bridge.",
+            "favoriteRestaurant": "Whisper Cafe",
+            "favoriteBar": "Run's Brews",
+            "favoriteHotel": "Omni",
+            "favoriteAttraction": "Hollywood"
+        }
+    ]
+}
