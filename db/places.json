@@ -1,6 +1,5 @@
 {
-    "places": [
-        {
+    "places": [{
             "id": "place1",
             "cityName": "Sunnydale",
             "cityState": "California",
@@ -20,14 +19,14 @@
             "favoriteRestaurant": "Comice",
             "favoriteBar": "Restaurant David Toutain",
             "favoriteHotel": "Le Meurice",
-            "favoriteAttraction": "Eiffel Tower"
+            "favoriteAttraction": "the Eiffel Tower"
         },
         {
             "id": "place3",
             "cityName": "New York",
             "cityState": "New York",
             "image": "https://imaging.broadway.com/images/regular-43/w735/94445-16.jpg",
-            "imageAlt": "Image of Glinda and Elfaba, two fo the main characters from the Wicked Broadway musical",
+            "imageAlt": "Image of Glinda and Elfaba, two of the main characters from the Wicked Broadway musical",
             "favoriteRestaurant": "Flat Iron",
             "favoriteBar": "Balthazar",
             "favoriteHotel": "Omni",
@@ -42,7 +41,7 @@
             "favoriteRestaurant": "Granny's",
             "favoriteBar": "The Rabbit Hole",
             "favoriteHotel": "Wolf's Inn",
-            "favoriteAttraction": "Convent of the Sisters of Saint Meissa"
+            "favoriteAttraction": "the Convent of the Sisters of Saint Meissa"
         },
         {
             "id": "place5",
