@@ -5,7 +5,7 @@ Styling of card image heights and background colors is done in CSS.
 HTML sets divs for the page and cards, and a title for the page.  
 
 ### Screenshots  
-![Screenshot of the top section of the webpage with page title and top row of three cards containing places name, associated image, and promotional text]()  
+![Screenshot of the top section of the webpage with page title and top row of three cards containing places name, associated image, and promotional text](https://raw.githubusercontent.com/sarahjulesthorne/favorite-places/master/images/2019-04-06.png "Screenshot of the top section of the webpage with page title and top row of three cards containing places name, associated image, and promotional text")  
 ### Getting Started  
 Clone the project down:  
 ```  
